@@ -1,3 +1,2 @@
-# Metagenome
-Code for metagenomic data processing
-Including analyses from reads to metagenome-assembled genomes (MAGs).
+# Metagenomic analyses for early- and late- project
+Code for metagenomic data processing, ecological analyses and statistical analyses.
